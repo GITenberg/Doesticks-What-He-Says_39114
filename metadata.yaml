@@ -1,0 +1,29 @@
+_repo: Doesticks-What-He-Says_39114
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Doesticks, Q. K. Philander
+    aliases:
+    - Thompson, Mortimer Neal
+    - Thomson, Mortimer N. (Mortimer Neal)
+    birthdate: 1831
+    deathdate: 1875
+    gutenberg_agent_id: '32607'
+    url: http://www.gutenberg.org/2009/agents/32607
+description: ''
+gutenberg_issued: '2012-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39114'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American wit and humor'
+- !lcc 'PS'
+title: 'Doesticks: What He Says'
+url: http://www.gutenberg.org/ebooks/39114
